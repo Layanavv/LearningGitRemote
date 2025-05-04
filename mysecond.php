@@ -1,0 +1,6 @@
+class mysecond{
+    int add()
+    {
+        ;
+    }
+}
